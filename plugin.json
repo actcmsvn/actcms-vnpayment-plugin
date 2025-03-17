@@ -1,0 +1,11 @@
+{
+    "id": "actcmsvn/actcms-vietnam-bank-qr",
+    "name": "Mã QR Chuyển Tiền Ngân Hàng Việt Nam",
+    "namespace": "ACTCMS\\VietnamBankQr\\",
+    "provider": "ACTCMS\\VietnamBankQr\\Providers\\VietnamBankQrServiceProvider",
+    "author": "ACTCMS Vietnam",
+    "url": "https://actcms.io.vn",
+    "version": "1.0.1",
+    "description": "Plugin này dùng để hiển thị mã QR chuyển tiền hay dùng phương thức chuyển khoản ngân hàng Việt Nam.",
+    "minimum_core_version": "1.0.0"
+}
