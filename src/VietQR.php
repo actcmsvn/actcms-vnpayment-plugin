@@ -2,7 +2,7 @@
 
 namespace ACTCMS\VietnamBankQr;
 
-use Botble\Payment\Enums\PaymentMethodEnum;
+use ACTCMS\Payment\Enums\PaymentMethodEnum;
 
 class VietQR
 {

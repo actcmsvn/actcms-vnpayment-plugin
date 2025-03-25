@@ -2,16 +2,16 @@
 
 namespace ACTCMS\VietnamBankQr\Providers;
 
-use Botble\Base\Forms\FieldOptions\SelectFieldOption;
-use Botble\Base\Forms\FieldOptions\TextFieldOption;
-use Botble\Base\Forms\Fields\SelectField;
-use Botble\Base\Forms\Fields\TextField;
-use Botble\Base\Supports\ServiceProvider;
-use Botble\Base\Traits\LoadAndPublishDataTrait;
-use Botble\Ecommerce\Models\Currency;
-use Botble\Ecommerce\Models\Order;
-use Botble\Payment\Enums\PaymentMethodEnum;
-use Botble\Payment\Forms\BankTransferPaymentMethodForm;
+use ACTCMS\Base\Forms\FieldOptions\SelectFieldOption;
+use ACTCMS\Base\Forms\FieldOptions\TextFieldOption;
+use ACTCMS\Base\Forms\Fields\SelectField;
+use ACTCMS\Base\Forms\Fields\TextField;
+use ACTCMS\Base\Supports\ServiceProvider;
+use ACTCMS\Base\Traits\LoadAndPublishDataTrait;
+use ACTCMS\Ecommerce\Models\Currency;
+use ACTCMS\Ecommerce\Models\Order;
+use ACTCMS\Payment\Enums\PaymentMethodEnum;
+use ACTCMS\Payment\Forms\BankTransferPaymentMethodForm;
 use ACTCMS\VietnamBankQr\VietQR;
 use Illuminate\Support\Collection;
 

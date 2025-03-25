@@ -2,7 +2,7 @@
 
 namespace ACTCMS\VietnamBankQr;
 
-use Botble\PluginManagement\Abstracts\PluginOperationAbstract;
+use ACTCMS\PluginManagement\Abstracts\PluginOperationAbstract;
 
 class Plugin extends PluginOperationAbstract
 {
